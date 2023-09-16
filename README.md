@@ -1,6 +1,6 @@
 ##  Questions with answers
 
-### Add at least 3 Project features
+#### Add at least 3 Project features
 - Adding at least 3 Project features -->
    1. Real-World Projects: Programming courses often include real-world project assignments that allow students to apply the knowledge and skills they've learned in a practical context. 
    2. Progress Tracking: Students can track their progress and see how their coding skills improve over time. Completion badges or scores may be awarded to motivate learners.
@@ -8,7 +8,7 @@
 
    * * *
 
-### Discuss how you managed the state in your assignment project.
+#### Discuss how you managed the state in your assignment project.
 - Discussing about how I managed the state in my assignment project -->
    * In my React component, initialize state variables to manage the course cart, total price, total credit hours and remaining credit hours.
    * Implement a function that allows users to add courses to the cart when click the select button and a handle event listener named handleSelectCourse added to this button. When a course is select it will added and update the cart state and recalculate the total price and total credit hour.
